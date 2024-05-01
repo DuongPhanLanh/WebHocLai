@@ -21,7 +21,6 @@ public class monOrder {
 	private String classSV;
 	
 	public monOrder() {
-		super();
 		// TODO Auto-generated constructor stub
 	}
 

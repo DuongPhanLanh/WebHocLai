@@ -10,7 +10,7 @@
 <%@include file="all_component/navbar.jsp" %>
 <h1> Thực hiện thành công</h1>
 <div class="text-center">
-	<a href="add_Inform.jsp" class="btn btn-warning"> Nhập thêm thông tin để xác nhận</a>
+	<a href="sinhVien.jsp" class="btn btn-warning"> Nhập thêm thông tin để xác nhận</a>
 					  	
 </div>
 <%@include file="all_component/footer.jsp" %>

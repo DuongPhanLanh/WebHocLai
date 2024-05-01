@@ -15,7 +15,11 @@ public interface khoaHocDAO {
 	// nội dung tron add_MH.jsp
 	public List<monOrder> getMonHocByGmail(String mhgmail);
 	
-	//public monOrder login(String ld);
-
-	//public boolean addThongTin(monOrder mh);
+	public boolean updateEditMH(monOrder m);
+	
+	public boolean deleteMH(int id);
+	
+	public monOrder getMonhocById(int ID);
+	
+	
 }
