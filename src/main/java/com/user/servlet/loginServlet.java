@@ -41,10 +41,7 @@ try {
 				}else {
 					session.setAttribute("failedLog", "Đăng nhập ko hợp lệ");
 					resp.sendRedirect("login.jsp");
-				}
-				
-				
-				//resp.sendRedirect("home.jsp");
+				}								
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

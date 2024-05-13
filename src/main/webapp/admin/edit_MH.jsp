@@ -2,7 +2,8 @@
 <%@page import="com.DB.DBConnect"%>
 <%@page import="com.DAO.khoaHocDAOImpl"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
 <%@page isELIgnored="false" %>
 <!DOCTYPE html>
 <html>
@@ -32,7 +33,7 @@
 					<form action="../editMonHoc" method="POST" 
 					enctype="multipart/form-data" accept-charset="UTF-8">
 						
-					<input type="text" name="mID" value="<%=m.getId()%>">
+					<input type="hidden" name="mID" value="<%=m.getId()%>">
 						
 					  <div class="form-group">
 					    <label for="exampleInputEmail1">Gmail sinh viên</label>

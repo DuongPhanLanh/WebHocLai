@@ -21,7 +21,8 @@
 			<!-- Nguồn ảnh: https://dnpu.edu.vn/knn-thong-bao-dang-ki-hoc-lai-cai-thien-ghep-voi-k13-hoc-ki-2-nam-hoc-2023-2024 -->
 			<img alt="" src="img/thongbao.png" style="width: 250px; height: 200px" 
 				class="img-thumblin">
-				<p>Đăng kí học lại, cải thiện ghép với Sinh viên năm học 2023- 2024</p>							
+				<p>Đăng kí học lại, cải thiện ghép với Sinh viên năm học 2023- 2024</p><br>	
+				<p>Khoa HTTT và VT</p>						
 			</div>		
 		</div>
 	</a>		
@@ -34,7 +35,8 @@
 			<!-- Nguồn ảnh: https://dnpu.edu.vn/knn-thong-bao-dang-ki-hoc-lai-cai-thien-ghep-voi-k13-hoc-ki-2-nam-hoc-2023-2024 -->
 			<img alt="" src="img/thongbao.png" style="width: 250px; height: 200px" 
 				class="img-thumblin">
-				<p>Đăng kí học lại, cải thiện ghép với Sinh viên năm học 2023- 2024</p>							
+				<p>Đăng kí học lại, cải thiện ghép với Sinh viên năm học 2023- 2024</p><br>
+				<p>Khoa HTTT và VT</p>							
 			</div>		
 		</div>
 	</a>		

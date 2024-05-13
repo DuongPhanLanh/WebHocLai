@@ -149,8 +149,8 @@
 					    <select class="form-control" id="inputStatus" 
 					    name="dkPrice">
 					    	<option selected>--- Số tiền đồng ---</option>
-					    	<option value="tinChi">850000</option>
-					    	<option value="CaHe">1300000</option>
+					    	<option value="850000">Lớp chính quy</option>
+					    	<option value="1300000">Lớp học hè</option>
 					    </select>
 					    
 					  </div>
